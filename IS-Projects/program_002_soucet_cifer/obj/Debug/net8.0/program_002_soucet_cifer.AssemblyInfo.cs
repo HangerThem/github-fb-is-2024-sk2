@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program_002_soucet_cifer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27a7a8456f0ffaf620fa19dc5be2d29018ff23bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15f1ddbcf8d372282ed22d77556563d56b7bbc06")]
 [assembly: System.Reflection.AssemblyProductAttribute("program_002_soucet_cifer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program_002_soucet_cifer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
