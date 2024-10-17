@@ -1,0 +1,15 @@
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/bin/Debug/net8.0/program_002_soucet_cifer
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/bin/Debug/net8.0/program_002_soucet_cifer.deps.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/bin/Debug/net8.0/program_002_soucet_cifer.runtimeconfig.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/bin/Debug/net8.0/program_002_soucet_cifer.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/bin/Debug/net8.0/program_002_soucet_cifer.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/obj/Debug/net8.0/program_002_soucet_cifer.GeneratedMSBuildEditorConfig.editorconfig
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/obj/Debug/net8.0/program_002_soucet_cifer.AssemblyInfoInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/obj/Debug/net8.0/program_002_soucet_cifer.AssemblyInfo.cs
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/obj/Debug/net8.0/program_002_soucet_cifer.csproj.CoreCompileInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/obj/Debug/net8.0/program_002_soucet_cifer.sourcelink.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/obj/Debug/net8.0/program_002_soucet_cifer.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/obj/Debug/net8.0/refint/program_002_soucet_cifer.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/obj/Debug/net8.0/program_002_soucet_cifer.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/obj/Debug/net8.0/program_002_soucet_cifer.genruntimeconfig.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_002_soucet_cifer/obj/Debug/net8.0/ref/program_002_soucet_cifer.dll
