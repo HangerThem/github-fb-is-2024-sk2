@@ -1,0 +1,15 @@
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/bin/Debug/net8.0/program_003_vykresleni_obrazcu
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/bin/Debug/net8.0/program_003_vykresleni_obrazcu.deps.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/bin/Debug/net8.0/program_003_vykresleni_obrazcu.runtimeconfig.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/bin/Debug/net8.0/program_003_vykresleni_obrazcu.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/bin/Debug/net8.0/program_003_vykresleni_obrazcu.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/obj/Debug/net8.0/program_003_vykresleni_obrazcu.GeneratedMSBuildEditorConfig.editorconfig
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/obj/Debug/net8.0/program_003_vykresleni_obrazcu.AssemblyInfoInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/obj/Debug/net8.0/program_003_vykresleni_obrazcu.AssemblyInfo.cs
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/obj/Debug/net8.0/program_003_vykresleni_obrazcu.csproj.CoreCompileInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/obj/Debug/net8.0/program_003_vykresleni_obrazcu.sourcelink.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/obj/Debug/net8.0/program_003_vykresleni_obrazcu.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/obj/Debug/net8.0/refint/program_003_vykresleni_obrazcu.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/obj/Debug/net8.0/program_003_vykresleni_obrazcu.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/obj/Debug/net8.0/program_003_vykresleni_obrazcu.genruntimeconfig.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_003_vykresleni_obrazcu/obj/Debug/net8.0/ref/program_003_vykresleni_obrazcu.dll
