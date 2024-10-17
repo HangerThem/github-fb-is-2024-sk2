@@ -1,0 +1,14 @@
+/home/hangerthem/Projects/tul_002/bin/Debug/net8.0/tul_002
+/home/hangerthem/Projects/tul_002/bin/Debug/net8.0/tul_002.deps.json
+/home/hangerthem/Projects/tul_002/bin/Debug/net8.0/tul_002.runtimeconfig.json
+/home/hangerthem/Projects/tul_002/bin/Debug/net8.0/tul_002.dll
+/home/hangerthem/Projects/tul_002/bin/Debug/net8.0/tul_002.pdb
+/home/hangerthem/Projects/tul_002/obj/Debug/net8.0/tul_002.GeneratedMSBuildEditorConfig.editorconfig
+/home/hangerthem/Projects/tul_002/obj/Debug/net8.0/tul_002.AssemblyInfoInputs.cache
+/home/hangerthem/Projects/tul_002/obj/Debug/net8.0/tul_002.AssemblyInfo.cs
+/home/hangerthem/Projects/tul_002/obj/Debug/net8.0/tul_002.csproj.CoreCompileInputs.cache
+/home/hangerthem/Projects/tul_002/obj/Debug/net8.0/tul_002.dll
+/home/hangerthem/Projects/tul_002/obj/Debug/net8.0/refint/tul_002.dll
+/home/hangerthem/Projects/tul_002/obj/Debug/net8.0/tul_002.pdb
+/home/hangerthem/Projects/tul_002/obj/Debug/net8.0/tul_002.genruntimeconfig.cache
+/home/hangerthem/Projects/tul_002/obj/Debug/net8.0/ref/tul_002.dll
