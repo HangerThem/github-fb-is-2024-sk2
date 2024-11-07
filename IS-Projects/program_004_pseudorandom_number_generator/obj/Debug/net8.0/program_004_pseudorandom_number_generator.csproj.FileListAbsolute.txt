@@ -1,0 +1,15 @@
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/bin/Debug/net8.0/program_004_pseudorandom_number_generator
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/bin/Debug/net8.0/program_004_pseudorandom_number_generator.deps.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/bin/Debug/net8.0/program_004_pseudorandom_number_generator.runtimeconfig.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/bin/Debug/net8.0/program_004_pseudorandom_number_generator.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/bin/Debug/net8.0/program_004_pseudorandom_number_generator.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/obj/Debug/net8.0/program_004_pseudorandom_number_generator.GeneratedMSBuildEditorConfig.editorconfig
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/obj/Debug/net8.0/program_004_pseudorandom_number_generator.AssemblyInfoInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/obj/Debug/net8.0/program_004_pseudorandom_number_generator.AssemblyInfo.cs
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/obj/Debug/net8.0/program_004_pseudorandom_number_generator.csproj.CoreCompileInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/obj/Debug/net8.0/program_004_pseudorandom_number_generator.sourcelink.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/obj/Debug/net8.0/program_004_pseudorandom_number_generator.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/obj/Debug/net8.0/refint/program_004_pseudorandom_number_generator.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/obj/Debug/net8.0/program_004_pseudorandom_number_generator.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/obj/Debug/net8.0/program_004_pseudorandom_number_generator.genruntimeconfig.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_004_pseudorandom_number_generator/obj/Debug/net8.0/ref/program_004_pseudorandom_number_generator.dll

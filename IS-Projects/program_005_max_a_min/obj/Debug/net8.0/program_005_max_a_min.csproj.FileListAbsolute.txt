@@ -1,0 +1,15 @@
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/bin/Debug/net8.0/program_005_max_a_min
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/bin/Debug/net8.0/program_005_max_a_min.deps.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/bin/Debug/net8.0/program_005_max_a_min.runtimeconfig.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/bin/Debug/net8.0/program_005_max_a_min.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/bin/Debug/net8.0/program_005_max_a_min.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/obj/Debug/net8.0/program_005_max_a_min.GeneratedMSBuildEditorConfig.editorconfig
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/obj/Debug/net8.0/program_005_max_a_min.AssemblyInfoInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/obj/Debug/net8.0/program_005_max_a_min.AssemblyInfo.cs
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/obj/Debug/net8.0/program_005_max_a_min.csproj.CoreCompileInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/obj/Debug/net8.0/program_005_max_a_min.sourcelink.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/obj/Debug/net8.0/program_005_max_a_min.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/obj/Debug/net8.0/refint/program_005_max_a_min.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/obj/Debug/net8.0/program_005_max_a_min.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/obj/Debug/net8.0/program_005_max_a_min.genruntimeconfig.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_005_max_a_min/obj/Debug/net8.0/ref/program_005_max_a_min.dll
