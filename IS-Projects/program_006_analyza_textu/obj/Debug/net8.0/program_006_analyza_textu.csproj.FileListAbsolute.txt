@@ -1,0 +1,15 @@
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/obj/Debug/net8.0/program_006_analyza_textu.GeneratedMSBuildEditorConfig.editorconfig
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/obj/Debug/net8.0/program_006_analyza_textu.AssemblyInfoInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/obj/Debug/net8.0/program_006_analyza_textu.AssemblyInfo.cs
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/obj/Debug/net8.0/program_006_analyza_textu.csproj.CoreCompileInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/obj/Debug/net8.0/program_006_analyza_textu.sourcelink.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/bin/Debug/net8.0/program_006_analyza_textu
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/bin/Debug/net8.0/program_006_analyza_textu.deps.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/bin/Debug/net8.0/program_006_analyza_textu.runtimeconfig.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/bin/Debug/net8.0/program_006_analyza_textu.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/bin/Debug/net8.0/program_006_analyza_textu.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/obj/Debug/net8.0/program_006_analyza_textu.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/obj/Debug/net8.0/refint/program_006_analyza_textu.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/obj/Debug/net8.0/program_006_analyza_textu.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/obj/Debug/net8.0/program_006_analyza_textu.genruntimeconfig.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_006_analyza_textu/obj/Debug/net8.0/ref/program_006_analyza_textu.dll
