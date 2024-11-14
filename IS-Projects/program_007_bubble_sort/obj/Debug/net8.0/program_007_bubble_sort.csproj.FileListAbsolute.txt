@@ -1,0 +1,15 @@
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/bin/Debug/net8.0/program_007_bubble_sort
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/bin/Debug/net8.0/program_007_bubble_sort.deps.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/bin/Debug/net8.0/program_007_bubble_sort.runtimeconfig.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/bin/Debug/net8.0/program_007_bubble_sort.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/bin/Debug/net8.0/program_007_bubble_sort.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/obj/Debug/net8.0/program_007_bubble_sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/obj/Debug/net8.0/program_007_bubble_sort.AssemblyInfoInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/obj/Debug/net8.0/program_007_bubble_sort.AssemblyInfo.cs
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/obj/Debug/net8.0/program_007_bubble_sort.csproj.CoreCompileInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/obj/Debug/net8.0/program_007_bubble_sort.sourcelink.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/obj/Debug/net8.0/program_007_bubble_sort.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/obj/Debug/net8.0/refint/program_007_bubble_sort.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/obj/Debug/net8.0/program_007_bubble_sort.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/obj/Debug/net8.0/program_007_bubble_sort.genruntimeconfig.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_007_bubble_sort/obj/Debug/net8.0/ref/program_007_bubble_sort.dll

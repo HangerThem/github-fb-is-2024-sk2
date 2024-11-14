@@ -1,0 +1,15 @@
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/obj/Debug/net8.0/program_008_other_sorting_algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/obj/Debug/net8.0/program_008_other_sorting_algorithms.AssemblyInfoInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/obj/Debug/net8.0/program_008_other_sorting_algorithms.AssemblyInfo.cs
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/obj/Debug/net8.0/program_008_other_sorting_algorithms.csproj.CoreCompileInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/obj/Debug/net8.0/program_008_other_sorting_algorithms.sourcelink.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/bin/Debug/net8.0/program_008_other_sorting_algorithms
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/bin/Debug/net8.0/program_008_other_sorting_algorithms.deps.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/bin/Debug/net8.0/program_008_other_sorting_algorithms.runtimeconfig.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/bin/Debug/net8.0/program_008_other_sorting_algorithms.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/bin/Debug/net8.0/program_008_other_sorting_algorithms.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/obj/Debug/net8.0/program_008_other_sorting_algorithms.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/obj/Debug/net8.0/refint/program_008_other_sorting_algorithms.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/obj/Debug/net8.0/program_008_other_sorting_algorithms.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/obj/Debug/net8.0/program_008_other_sorting_algorithms.genruntimeconfig.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_008_other_sorting_algorithms/obj/Debug/net8.0/ref/program_008_other_sorting_algorithms.dll

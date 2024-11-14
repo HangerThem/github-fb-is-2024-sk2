@@ -1,0 +1,15 @@
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/bin/Debug/net8.0/program_009_array_reversion
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/bin/Debug/net8.0/program_009_array_reversion.deps.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/bin/Debug/net8.0/program_009_array_reversion.runtimeconfig.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/bin/Debug/net8.0/program_009_array_reversion.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/bin/Debug/net8.0/program_009_array_reversion.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/obj/Debug/net8.0/program_009_array_reversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/obj/Debug/net8.0/program_009_array_reversion.AssemblyInfoInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/obj/Debug/net8.0/program_009_array_reversion.AssemblyInfo.cs
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/obj/Debug/net8.0/program_009_array_reversion.csproj.CoreCompileInputs.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/obj/Debug/net8.0/program_009_array_reversion.sourcelink.json
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/obj/Debug/net8.0/program_009_array_reversion.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/obj/Debug/net8.0/refint/program_009_array_reversion.dll
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/obj/Debug/net8.0/program_009_array_reversion.pdb
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/obj/Debug/net8.0/program_009_array_reversion.genruntimeconfig.cache
+/home/hangerthem/Projects/github-fb-is-2024-sk2/IS-Projects/program_009_array_reversion/obj/Debug/net8.0/ref/program_009_array_reversion.dll
